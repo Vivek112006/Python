@@ -1,4 +1,4 @@
-students = ["Turu", "Dhairyasheel", "Vivek", "Shreeja", "Kiki"]
+students = ["rutu", "Dhairyasheel", "Vivek", "Shreeja", "Kiki"]
 
 students.pop(0)         
 students.pop()          
